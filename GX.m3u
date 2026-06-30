@@ -1,0 +1,133 @@
+#EXTM3U url-tvg="http://epg.streaming-elbrus.su/xmltv/epg.xml.gz"
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV1
+http://113.16.154.83:8001/rtp/239.81.0.102:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV1
+http://113.16.154.83:8001/rtp/239.81.0.13:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV2
+http://113.16.154.83:8001/rtp/239.81.0.14:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV2
+http://113.16.154.83:8001/rtp/239.81.0.115:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV3
+http://113.16.154.83:8001/rtp/239.81.0.231:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV4
+http://113.16.154.83:8001/rtp/239.81.0.96:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV4
+http://113.16.154.83:8001/rtp/239.81.0.16:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV5
+http://113.16.154.83:8001/rtp/239.81.0.232:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV5+
+http://113.16.154.83:8001/rtp/239.81.0.101:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV6
+http://113.16.154.83:8001/rtp/239.81.0.233:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV7
+http://113.16.154.83:8001/rtp/239.81.0.116:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV7
+http://113.16.154.83:8001/rtp/239.81.0.19:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV8
+http://113.16.154.83:8001/rtp/239.81.0.234:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV9
+http://113.16.154.83:8001/rtp/239.81.0.117:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV9
+http://113.16.154.83:8001/rtp/239.81.0.21:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV10
+http://113.16.154.83:8001/rtp/239.81.0.22:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV10
+http://113.16.154.83:8001/rtp/239.81.0.118:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV11
+http://113.16.154.83:8001/rtp/239.81.0.23:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV11
+http://113.16.154.83:8001/rtp/239.81.0.229:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV12
+http://113.16.154.83:8001/rtp/239.81.0.24:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV12
+http://113.16.154.83:8001/rtp/239.81.0.119:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV13
+http://113.16.154.83:8001/rtp/239.81.0.206:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV13
+http://113.16.154.83:8001/rtp/239.81.0.26:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV14
+http://113.16.154.83:8001/rtp/239.81.0.25:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV14
+http://113.16.154.83:8001/rtp/239.81.0.120:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV15
+http://113.16.154.83:8001/rtp/239.81.0.27:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV15
+http://113.16.154.83:8001/rtp/239.81.0.230:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV16
+http://113.16.154.83:8001/rtp/239.81.0.142:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV17
+http://113.16.154.83:8001/rtp/239.81.0.228:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV17
+http://113.16.154.83:8001/rtp/239.81.0.227:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV4K
+http://113.16.154.83:8001/rtp/239.81.0.196:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CHC影迷电影
+http://113.16.154.83:8001/rtp/239.81.0.240:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CHC家庭影院
+http://113.16.154.83:8001/rtp/239.81.0.238:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CHC动作电影
+http://113.16.154.83:8001/rtp/239.81.0.239:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV4K
+http://113.16.154.83:8001/rtp/239.81.0.196:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",CCTV16 4K
+http://113.16.154.83:8001/rtp/239.81.0.144:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",湖南卫视4K
+http://113.16.154.83:8001/rtp/239.81.0.72:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",浙江卫视4K
+http://113.16.154.83:8001/rtp/239.81.0.75:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",浙江卫视
+http://113.16.154.83:8001/rtp/239.81.0.31:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",浙江卫视
+http://113.16.154.83:8001/rtp/239.81.0.108:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西卫视
+http://113.16.154.83:8001/rtp/239.81.0.107:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西卫视
+http://113.16.154.83:8001/rtp/239.81.0.2:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",湖南卫视
+http://113.16.154.83:8001/rtp/239.81.0.40:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",湖南卫视
+http://113.16.154.83:8001/rtp/239.81.0.110:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西卫视
+http://113.16.154.83:8001/rtp/239.81.0.107:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西卫视
+http://113.16.154.83:8001/rtp/239.81.0.2:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西影视
+http://113.16.154.83:8001/rtp/239.81.0.7:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西影视
+http://113.16.154.83:8001/rtp/239.81.0.250:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西新闻
+http://113.16.154.83:8001/rtp/239.81.0.5:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西新闻
+http://113.16.154.83:8001/rtp/239.81.0.248:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西移动
+http://113.16.154.83:8001/rtp/239.81.0.10:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西移动
+http://113.16.154.83:8001/rtp/239.81.0.216:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西综艺旅游
+http://113.16.154.83:8001/rtp/239.81.0.3:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西综艺旅游
+http://113.16.154.83:8001/rtp/239.81.0.214:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西都市
+http://113.16.154.83:8001/rtp/239.81.0.4:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西都市
+http://113.16.154.83:8001/rtp/239.81.0.247:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西国际
+http://113.16.154.83:8001/rtp/239.81.0.8:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",广西视听
+http://113.16.154.83:8001/rtp/239.81.0.208:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",南宁影视娱乐
+http://113.16.154.83:8001/rtp/239.81.0.128:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",南宁影视娱乐
+http://113.16.154.83:8001/rtp/239.81.0.140:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",南宁文旅生活
+http://113.16.154.83:8001/rtp/239.81.0.139:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",南宁文旅生活
+http://113.16.154.83:8001/rtp/239.81.0.127:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",南宁新闻综合
+http://113.16.154.83:8001/rtp/239.81.0.241:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",南宁新闻综合
+http://113.16.154.83:8001/rtp/239.81.0.126:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",南宁公共
+http://113.16.154.83:8001/rtp/239.81.0.129:4056
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic",南宁公共
+http://113.16.154.83:8001/rtp/239.81.0.141:4056
